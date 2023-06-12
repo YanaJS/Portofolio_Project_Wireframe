@@ -1,0 +1,17 @@
+/*
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'PT Mono', monospace;
+font-family: 'Sedgwick Ave Display', cursive;
+*/
+
+h1 {
+  color: brown;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+}
+
+p {
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+}
