@@ -64,7 +64,7 @@ p {
   text-align: center;
 }
 
-.content-container h1 {
+.content h1 {
   font-size: 64px;
   line-height: 80px;
 }
@@ -72,6 +72,15 @@ p {
   font-size: 18px;
   font-family: var(--default-font-family);
   line-height: 27px;
+}
+.content h3 {
+  font-size: 24px;
+  font-family: var(--default-font-family);
+  line-height: 1.5;
+}
+
+.content p {
+  font-size: 14px;
 }
 .content {
   margin: 30px;
